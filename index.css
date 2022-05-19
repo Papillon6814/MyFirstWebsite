@@ -1,0 +1,19 @@
+.blue-button {
+    background: #878976;
+    width: 100px;
+    height: 100px;
+
+    border-radius: 20px;
+}
+
+#atag {
+    color: red;
+}
+
+body {
+    background: gray;
+}
+
+.aaa {
+    font-size: 2000rem;
+}
